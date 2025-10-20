@@ -37,6 +37,7 @@ query {
       }
     }
 
+
 ## Sample Response
 {
   "data": {
@@ -65,5 +66,5 @@ query {
 Approximately **4 hours**.
 
 
-  }
-}
+  
+
